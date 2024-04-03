@@ -42,7 +42,7 @@ public class Element{
     }
 
     void faiquesto(){
-        System.out.println("ciao a tutti cazzoporco");
+        System.out.println("ciao a tutti cazzoporco ciao a tutti");
     }
 
 
