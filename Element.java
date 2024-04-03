@@ -41,6 +41,10 @@ public class Element{
         reuturn "Identificatore Ospedale:"+ CodEle + "\nNumero Reparti:" + NRep + "\nNumero Laboratori:" + NLab;
     }
 
+    void faiquesto(){
+        System.out.println("ciao");
+    }
+
 
 
 
