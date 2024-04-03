@@ -40,7 +40,7 @@ public class Element{
     int toString(){
         reuturn "Identificatore Ospedale:"+ CodEle + "\nNumero Reparti:" + NRep + "\nNumero Laboratori:" + NLab;
     }
-
+git pull recipes-gh main --allow-unrelated-histories
 
 
 }
