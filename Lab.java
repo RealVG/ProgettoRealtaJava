@@ -17,6 +17,8 @@ public class Lab extends Element{
         this.introiti = introiti;
     }
 
-    
+    public String toString(){
+        return "Il code è " + CodLab + ", il Num degli esami sono " + NEsami + ", le spese sono " + spese + "€ e gli introiti sono " + introiti;
+    }
 
 }

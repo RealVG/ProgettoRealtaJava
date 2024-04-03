@@ -16,7 +16,7 @@ public class Rep extends Element{
         this.GiacenzaMedia = GiacenzaMedia;
     }
 
-    void setCodRep(String CodRep){
+    abstract void setCodRep(String CodRep){
         this.CodRep = CodRep;
     }
     void setNPostiLetto(int NPostiLetto){
